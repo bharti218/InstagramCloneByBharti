@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/custom_preview.xml" value="0.17685185185185184" />
+        <entry key="app/src/main/res/drawable-anydpi-v24/ic_more.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/button_background.xml" value="0.3351851851851852" />
+        <entry key="app/src/main/res/drawable/edit_text_background.xml" value="0.26851851851851855" />
+        <entry key="app/src/main/res/drawable/ic_add_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_add_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_comment.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.26766304347826086" />
+        <entry key="app/src/main/res/layout/activity_followers.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.21603260869565216" />
+        <entry key="app/src/main/res/layout/activity_options.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/activity_post.xml" value="0.3480749219562955" />
+        <entry key="app/src/main/res/layout/activity_register.xml" value="0.16944444444444445" />
+        <entry key="app/src/main/res/layout/commment_item.xml" value="0.19934143870314083" />
+        <entry key="app/src/main/res/layout/fragment_home.xml" value="0.2859433458043827" />
+        <entry key="app/src/main/res/layout/fragment_notification.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/fragment_post_detail.xml" value="0.29438405797101447" />
+        <entry key="app/src/main/res/layout/fragment_profile.xml" value="0.1806020066889632" />
+        <entry key="app/src/main/res/layout/fragment_search.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/notification_item.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/photo_item.xml" value="0.29438405797101447" />
+        <entry key="app/src/main/res/layout/post_item.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/layout/tag_item.xml" value="0.2360182380813108" />
+        <entry key="app/src/main/res/layout/user_item.xml" value="0.3006134969325153" />
+        <entry key="app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_add.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_home.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_inbox.xml" value="0.24074074074074073" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2609375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.2609375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_person.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_save.xml" value="0.42604166666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.16944444444444445" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
